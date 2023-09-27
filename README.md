@@ -1,2 +1,2 @@
 # firstnamefile hello there
-this is second lab of maths
+this is second lab of computer maths
