@@ -1,2 +1,6 @@
 hello there, this is lab
+<<<<<<< HEAD
 this is second commit by me
+=======
+this is second lab by shikha mam
+>>>>>>> newbranch
