@@ -1,2 +1,2 @@
 # firstnamefile hello there
-this is second lab of computer tools
+this is second lab of lol
